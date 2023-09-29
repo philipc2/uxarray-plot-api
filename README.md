@@ -1,1 +1,1 @@
-# uxarray-plot-api
+# UXarray Plotting API
